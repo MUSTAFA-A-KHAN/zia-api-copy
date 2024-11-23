@@ -8,7 +8,8 @@
     "scripts": {
         "start": "node lib/api.js",
         "dev": "nodemon lib/api.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "react-scripts build"
     },
     "keywords": [
         "anime",
